@@ -1,0 +1,9 @@
+# Локальное состояние бота (не публиковать)
+state.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
